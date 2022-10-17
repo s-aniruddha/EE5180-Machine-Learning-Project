@@ -1,6 +1,6 @@
 ## Using summaries to improve sentiment classification
 
-This is a project submitted by me towards the course EE5180 Introduction to Machine Learning @ IIT Madras. In this project, I use a novel method for review sentiment classification based on Hierarchical classification, review text, and the summary. The model has far fewer trainable parameters than the state-of-the-art in 2020 and yet achieves competitive performance
+This is a project I submitted towards the group project in the course EE5180 Introduction to Machine Learning @ IIT Madras. In this project, I use a novel method for review sentiment classification based on Hierarchical classification, review text, and the summary. The model has far fewer trainable parameters than the state-of-the-art in 2020 and yet achieves competitive performance
 
 ### Model Description
 
